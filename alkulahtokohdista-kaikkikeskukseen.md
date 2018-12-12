@@ -1,7 +1,5 @@
 # Alkulähtökohdista Kaikkikeskukseen
 
-
-
 > Joka etsii korkeampaa tietoa,
 >
 > hänen täytyy luoda sellainen itselleen.
@@ -10,8 +8,7 @@
 >
 > _— Rudolf Steiner_
 
-
-
+  
 _Pohdiskelen tässä esseessä, mistä ymmärtämisessä ja tiedon välittämisessä on kyse._
 
 Kielellisen vuorovaikutuksen keskeinen ongelma on alkulähtökohdassa. Siinä, että keskustelu alkaa aina keskeltä jotain. Aloittaessamme vuorovaikutteisen keskustelun, sisältää se valtavan määrän keskustelijakohtaisia alkuolettamuksia ja -vaatimuksia. Keskustelijat vedetään sananmukaisesti keskukseen, mutta millaiseen?
