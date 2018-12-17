@@ -80,7 +80,7 @@ Ymmärtää yhtä ja tarkoittaa toista. Käsitämmekö, että tiedolle on annett
 
 ### Kaikkikeskus
 
-“Kesken kaiken”-piste on joka hetki ja kaikkialla. Kutsun sitä tässä esseessä kokeilumielessä nimellä Kaikkikeskus minimoidakseni omalla uudella käsitteellä vanhat arvolataukset, luodakseni tuoreen merkitysverkon, joka ei taistele muita merkitysverkoja vastaan.
+“Kesken kaiken”-piste on joka hetki ja kaikkialla. Kutsun sitä tässä esseessä kokeilumielessä nimellä Kaikkikeskus minimoidakseni omalla uudella käsitteellä vanhat arvolataukset, luodakseni tuoreen merkitysverkon, joka ei taistele muita merkitysverkkoja vastaan.
 
 Olemme aina “kesken kaiken”, keskeneräisinä keskellä jumalaista interventiota. Zeuksella, kreikkalaisen mytologian pilvien kerääjällä ja ukkosen jumalalla, on valta vapauttaa Odysseus seireenien lumouksesta, Calypson hunnusta ja Circen kynsistä. Jokainen salamana tuleva havahtuminen luo keskipisteen, josta on yhtä pitkä matka kaikkialle kehän pisteisiin. Henkisten opetusjärjestelmien tarkoitus on kuljettaa totuudenetsijät edestakaisin tuohon keskipisteeseen, kotiin. Edestakaisin siksi, että vaikka tietotoiminnan alku on keskustassa, valo eli dynaaminen ymmärrys on spiraalimaisella kehällä. Uskonnollisessa vertauskuvastossa tätä kuvataan maan ja taivaan väliä tikapuilla kulkevien enkelten joukolla. Pyhästä tilasta profaaniin palaaminen, ymmärryksen ja taiteen avulla materian henkistäminen, eli se, miten monadi toimii dyadissa, on toisen asteen projekti.
 
