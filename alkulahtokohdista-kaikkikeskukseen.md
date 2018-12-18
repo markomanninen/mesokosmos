@@ -2,7 +2,7 @@
 
 > Joka etsii korkeampaa tietoa, hänen täytyy luoda sellainen itselleen. Hänen täytyy istuttaa se sieluunsa. _ — Rudolf Steiner_
 
-_Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedon välittämisessä on kyse._
+_Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedonvälittämisessä on kyse._
 
 Kielellisen vuorovaikutuksen keskeinen ongelma on alkulähtökohdassa. Siinä, että keskustelu alkaa aina keskeltä jotain. Aloittaessamme vuorovaikutteisen keskustelun, sisältää se valtavan määrän keskustelijakohtaisia alkuolettamuksia ja -vaatimuksia. Keskustelijat vedetään sananmukaisesti keskukseen. Mutta millaiseen?
 
@@ -22,7 +22,7 @@ Psykologisissa reboot-ohjelmissa, joissa uudelleennimetään, -tarkennetaan ja -
 
 Enemmän aiheesta, esimerkiksi tiedosta tietävä, saattaa olla epävarmempi johtuen kasvavasta tietoisuudesta sen suhteen, kuinka vähän hän tietää. Vähemmän tietävä voi olla varmempi. Näin on harmiksemme yllättävän usein. Mutta se ei ole läheskään niin harmillista, kuin kulttuurillinen yliarvostuksemme ulkoista vakuuttavuutta ja sisäistä varmuuden tunnetta kohtaan. Ihmisen on vaikea huomata petosta, mutta vielä vaikeampi on huomata itsepetosta.
 
-Muinaisille gnostilaisille tieto \(kreik. _gnosis_\) tarkoitti karkeasti ottaen samaa kuin uskonnollinen pelastuminen pimeydeltä, tietämättömyydeltä ja sielun kuolemalta. Yhä edelleen, monelle väärän tiedon omaksumisesta aiheutuva kiinnijäämisen häpeä ja siltä pelastuminen, on tiedon väärti. Tietoon liitetään myös muita tunteita. Yksi vahvimmista on varmaankin varmuuden tunne.
+Muinaisille gnostilaisille tieto \(kreik. _gnosis_\) tarkoitti karkeasti ottaen samaa kuin uskonnollinen pelastuminen pimeydeltä, tietämättömyydeltä ja sielun kuolemalta. Yhä edelleen, monelle väärän tiedon omaksumisesta aiheutuva kiinnijäämisen häpeä ja siltä pelastuminen, on tiedon väärti. Tietoon liitetään paljon erilaisia . Yksi vahvimmista on varmaankin varmuuden tunne.
 
 Varmuutta pidetään tiedon mittana, luuloa taas kauheana tautina. Jos ajan mittaan paljastuu, että tieto ei pitänytkään paikkaansa, on meille tyypillistä kuitata varmaksi luultu tieto uskoksi. Tieto saa yleensä lopulta puhtaat paperit. Sillä on ympärillään jonkinlainen koskemattomuuden viitta. Tieto, merkityksessä tietäminen, ei voi osoittautua myöhemmin valheelliseksi tai vääräksi, koska muuten se ei olisi ollut tietoa. Siksi filosofit puhuvat mieluummin tiedosta tosi uskomuksena. Uskomus voi olla tosi tai väärä, samoin kuin uutiset voivat olla oikeita tai valheellisia. Tällaisen tiukan määritelmän mukaan tieto ja tietäminen ovat absoluuttisia. Ihminen joko tietää pysyvästi tai ei tiedä ollenkaan.
 
