@@ -2,7 +2,7 @@
 
 > Joka etsii korkeampaa tietoa, hänen täytyy luoda sellainen itselleen. Hänen täytyy istuttaa se sieluunsa. _ — Rudolf Steiner_
 
-_Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedonvälittämisessä on kyse._
+_Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedonv \(Kosmosälittämisessä on kyse._
 
 Kielellisen vuorovaikutuksen keskeinen ongelma on alkulähtökohdassa. Siinä, että keskustelu alkaa aina keskeltä jotain. Aloittaessamme vuorovaikutteisen keskustelun, sisältää se valtavan määrän keskustelijakohtaisia alkuolettamuksia ja -vaatimuksia. Keskustelijat vedetään sananmukaisesti keskukseen. Mutta millaiseen?
 
@@ -46,7 +46,7 @@ Omasta oivalluksesta kumpuava alkulähtökohtani on se, että kun alamme käsitt
 
 Seuraavat kysymykseni ovat: mihin ja miten voin jatkaa, kun havahdun “kesken kaiken” tutkimaan tietoa? Voinko käydä läpi kaikkia tietoni lähteitä, perusteita ja muotoja? Voinko arvioida, mitkä niistä ovat varmistettuja hyväksyttäviä lähtökohtia, voinko karsia jotain pois, lisätä tai muokata jotain? Voimmeko olla vapaita alkuolettamuksista?
 
-Suurin osa tietoteorian \(epistemologia\) filosofeista on järkeillyt, että alkuolettamuksista \(aksioomat\) ei voi päästä eroon. Paras mitä voimme tehdä, on yrittää selvittää, mitkä ovat järkevimmät, pysyvimmät ja toimivimmat alkuolettamukset. Tietoteoriassa tällaiset niin kutsutun fundamentalistisen koulukunnan edustajat kysyvät, mitä voimme ja mitä meillä on oikeus olettaa. Esimerkiksi minun itseni sallima ja omasta mielestäni perusteltu oletus on, että aloitamme keskustelun tiedosta “kesken kaiken.” En aloita sitä alusta, enkä lopusta, en makrosta enkä mikrosta, vaan mesosta, keskimaasta, manvantaran puolivälistä.
+Suurin osa tietoteorian \(epistemologia\) filosofeista on järkeillyt, että alkuolettamuksista \(aksioomat\) ei voi päästä eroon. Paras mitä voimme tehdä, on yrittää selvittää, mitkä ovat järkevimmät, pysyvimmät ja toimivimmat alkuolettamukset. Tietoteoriassa tällaiset niin kutsutun fundamentalistisen koulukunnan edustajat kysyvät, mitä voimme ja mitä meillä on oikeus olettaa. Esimerkiksi minun itseni sallima ja omasta mielestäni perusteltu oletus on, että aloitamme keskustelun tiedosta “kesken kaiken.” En aloita sitä alusta, enkä lopusta, en makrosta enkä mikrosta, vaan mesosta, keskimaasta, manvantaran \(kosminen    \) puolivälistä.
 
 Tutkimalla tieto-sanan käytön historiaa, saan rakennettua jonkinlaisen kuvan siitä, mitä tiedolla on eri lännen ja idän filosofioissa ja arkisessa kielenkäytössä tarkoitettu. Haluanko samaistua enemmän a\) siihen, että tieto on hyvin perusteltu tosi uskomus, b\) siihen, että tieto on esteettistä ymmärrystä, c\) siihen, että tieto on itsetietoisuutta, d\) siihen, että tieto on bittejä vai e\) siihen, että tieto on aaltofunktiolla kuvattavissa oleva havainnoijasidonnainen kvanttitila?
 
