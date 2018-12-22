@@ -2,7 +2,7 @@
 
 > Joka etsii korkeampaa tietoa, hänen täytyy luoda sellainen itselleen. Hänen täytyy istuttaa se sieluunsa. _ — Rudolf Steiner_
 
-_Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedonv \(Kosmosälittämisessä on kyse._
+_Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedon välittämisessä on kyse._
 
 Kielellisen vuorovaikutuksen keskeinen ongelma on alkulähtökohdassa. Siinä, että keskustelu alkaa aina keskeltä jotain. Aloittaessamme vuorovaikutteisen keskustelun, sisältää se valtavan määrän keskustelijakohtaisia alkuolettamuksia ja -vaatimuksia. Keskustelijat vedetään sananmukaisesti keskukseen. Mutta millaiseen?
 
