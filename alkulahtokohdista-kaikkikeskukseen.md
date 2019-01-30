@@ -1,6 +1,6 @@
 # Alkulähtökohdista Kaikkikeskukseen
 
-> Joka etsii korkeampaa tietoa, hänen täytyy luoda sellainen itselleen. Hänen täytyy istuttaa se sieluunsa. _ — Rudolf Steiner_
+> Joka etsii korkeampaa tietoa, hänen täytyy luoda sellainen itselleen. Hänen täytyy istuttaa se sieluunsa. — Rudolf Steiner
 
 _Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedon välittämisessä on kyse._
 
@@ -101,6 +101,3 @@ Pohdinnan pohjana, liikkeelle laittavina lähteinä:
 * Ronald H. Brady: How We Make Sense of the World - A Study in Rudolf Steiner's Epistemological Work \(2003\)
 * Riku Juti: Tiedon filosofia – Antiikista nykyaikaan \(2013\)
 * Eliseo Fernández: Peirce and Biosemiotics – A Guess at the Riddle of Life \(2014\)
-
-
-
