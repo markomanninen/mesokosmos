@@ -1,6 +1,6 @@
 # Filosofia - Hölynpölyä vai puhdasta immanenttia
 
-> Mikään ei ole ihmiselle vaikeampi hallittava kuin kieli, ja halunsa hän hillitsee paremmin kuin sanansa. _ — Baruch Spinoza_
+> Mikään ei ole ihmiselle vaikeampi hallittava kuin kieli, ja halunsa hän hillitsee paremmin kuin sanansa. — Baruch Spinoza
 
 _Miksi aloitan Näkökulmia mesokosmoksesta podcast-sarjan pohtimalla mitä tieto, käsitteet ja ajatukset tarkoittavat?_
 
@@ -20,7 +20,7 @@ Mesokosmos on välialue mikro- ja makrokosmoksen välillä. Ihmisen aistien ja l
 
 Jos perustavanlaatuisia käsitteitä ei pysty uudelleen ymmärtämään milloin tahansa, missä tahansa, niin mikä niiden hyöty olisi? Ajatusten palauttaminen havainnoinnin alkutekijöihin pitää kaikki ne tarpeelliset avut arkitajunnassa, joista käsin filosofia eli viisauden rakkaus pysyy aina tuoreena ja elävänä. Ideaalitapauksessa tosi tieto kuljettaa mukanaan kaikki tarvittavat peruselementit, joiden avulla tiedon oma paikkansapitävyys voidaan DNA:n tavoin todentaa ajasta ja paikasta riippumatta.
 
-### **Juttua pupusta**
+### Juttua pupusta
 
 Nykyinen arvostus sanoja kohtaan on jokseenkin ristiriitaista. Toisaalta tähdennetään sanojen riittämättömyyttä, kun niistä puhutaan kokemusten tai todellisuuden kuvaajina. Vähintään sanat nähdään kömpelöiksi, kun yritämme määritellä järkevästi asioita. Asiakieltä puhuvia poliitikkoja, sanallisen pelin hallitsijoita ja taitavia sanan pyörittelijöitä katsotaan pitkin hampain irvistellen. Arvostuksen puute tosin kulminoituu siihen, että ääripääpuoluepolitiikan vaatimat lupausten sanat on vaikea pitää pitkällä aikavälillä.
 
@@ -56,7 +56,7 @@ Filosofisten ja maailmankatsomuksellisten järjestelmien kohdalla meidän ei vie
 
 En tiedä juuri muuta keinoa selvittää näitä kysymyksiä kuin periksiantamaton perehtyminen asiaan. Ottamalla asiasta selvää. Konteksti eli se, miten teksti nivoutuu suurempaan kokonaiskuvaan, kertoo jotain laadusta. Hyvät johdannot, asteittainen aiheen syventäminen, läpinäkyvyys lähteiden ja tutkimusmotiivien osalta, sovellettavuus ja tiedon istuminen jo tunnettuihin ympäristöihin ovat niin ikään positiivisia signaaleja laadusta. Ulkopuolisen arvioijan seuraavaksi ongelmaksi muodostuu se, mistä löytää aikaa perehtyä annettuun maailmanselitysmalliin ja mikä motivoi tutkimaan mallia aina vain syvemmälle.
 
-### **Sanojen ristitulessa**
+### Sanojen ristitulessa
 
 Toisaalta pidämme puhumista, tunteiden ja kokemusten sanoittamista hyvinkin tärkeänä. Monet yksilö-, pari- ja ryhmäterapiat, myös iso osa yhteiskunnallista kommunikointia perustuu sanalliselle viestinnälle. Inspiroivia tai muuten taitavia puhujia ihaillaan. Runouden ja proosan tuottajat kuuluvat edelleen omaan arvostettuun taiteelliseen kastiinsa. Koulutus alaluokilta korkeimmille asteille pohjautuu suurelta osin luku-, kirjoitus- ja retoristen taitojen kehittämiselle.
 
@@ -76,7 +76,7 @@ Tietty ammattikieli ja sanasto kuuluvat vääjäämättä yhteiskunnan eri osiin
 
 Filosofin kielipesäke ja toiminta-alue liittyy yhdeltä osin vahvan ja tarkkaan harkitun käsitteistön luomiseen. Tämä toimintatapa on meille tuttua jo antiikin ajan ajattelijoilta, kuten filosofi Platonilta ja matemaatikko Eukleidesilta. Ajatusten ja käsitteiden uudelleen henkiin herättämisen idea on säilynyt meidän päiviin saakka esimerkiksi Rudolf Steinerin ja Gilles Deleuzen omaperäisissä filosofisissa järjestelmissä.
 
-### **Tienhaarassa**
+### Tienhaarassa
 
 Tässä kohdassa filosofilla on kaksi tietä valittavana. Filosofian tutkija voi ottaa roolin perehtyä historiaan, filosofeihin ja maailmankatsomuksiin. Tutkija voi yrittää ymmärtää erilaisia käsitteitä eri aikoina eri kulttuureissa. Tutkijafilosofi pyrkii pysymään mahdollisimman objektiivisena ja ottamatta kantaa siihen, mikä on oikea tulkinta. Painopiste on filosofisten ja uskonnollisten käsitteiden kehityskaaren ymmärtämisessä ja siinä, mikä on mahdollisesti nykyisin laajimmin tunnustettu näkökulma eri kysymyksiin. Tutkijafilosofin välittämä tieto on nykyajan suositun trendin mukaisesti tilastollista ja mitattavaa.
 
@@ -90,7 +90,7 @@ Kaksijako on tietysti keinotekoinen. Voi olla, että kaikenlainen jakaminen, vä
 
 Vaikka luova filosofi ei ole niin sidottu menneisyyden filosofien määritelmien kanssa, hyötyy hän suuresti historian tuntemuksesta. Vakiintuneen terminologian käyttö helpottaa omien ajatusten ymmärrettäväksi tulemista. Historian tunteminen saattaa meidät paremmin arvioimaan sitä, mikä on uutta ja mikä on vanhaa. Toisin sanoen arvioimaan sitä, mikä on toistamisen ja julkituomisen arvoista. Erityisesti luova filosofi joutuu pitämään huolta siitä, ettei hän tuota pelkkää mielikuvituksellista hölynpölyä ja että käsitteet ovat käyttökelpoisia ja todellisuutta kuvaavia.
 
-### **Luojafilosofit**
+### Luojafilosofit
 
 Filosofia voi olla enemmän käsitteiden luontia kuin ulkoisten lakien ja tiedon löytämistä, jos sitä verrataan muihin tieteisiin. Mukavimmillaan filosofia on kuin geometrista taidetta. Mutta silloin, kun filosofiaan sisältyy sekä ulkoisen fyysisen että sisäisen mielen maailman havainnointi, voi filosofiassa olla kyse myös löytämisestä. Filosofia voi tulla uudelleen itsestä löytämisen työkaluksi. Termit tehdään eläviksi niiden perinpohjaisella pohdinnalla oman elämän kokemusten ja omien havaintojen kautta. Sillä “ei voi ihmisen tieto mennä hänen kokemuksen ohi”, kuten John Locke sanoi.
 
