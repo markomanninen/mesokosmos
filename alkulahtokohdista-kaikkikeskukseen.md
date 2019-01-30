@@ -95,17 +95,11 @@ Se, mikä on kuvailua, ei ole propositionaalisiksi totuuslauseiksi muodostettu v
 Pohdinnan pohjana, liikkeelle laittavina lähteinä:
 
 * Rudolf Steiner: Totuus ja tieto \(1892\)
-
 * Rudolf Steiner: Vapauden filosofia \(1894\)
-
 * Rudolf Steiner: Kuinka tuntea korkeammat maailmat? \(1904\)
-
 * Keith Lehrer: Theory of Knowledge \(1990\)
-
 * Ronald H. Brady: How We Make Sense of the World - A Study in Rudolf Steiner's Epistemological Work \(2003\)
-
 * Riku Juti: Tiedon filosofia – Antiikista nykyaikaan \(2013\)
-
 * Eliseo Fernández: Peirce and Biosemiotics – A Guess at the Riddle of Life \(2014\)
 
 
