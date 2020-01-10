@@ -1,6 +1,6 @@
 # Aika-avaruudesta ja multiversumista – Alexander Jalo
 
-> Kuka voisi kellot seisauttaa ja ajan pysäyttää, kun maailma lainaa kaikkein kauneintaan? - Suurlähettiläät
+> Kuka voisi kellot seisauttaa ja ajan pysäyttää, kun maailma lainaa kaikkein kauneintaan? – Suurlähettiläät
 
 _Eilen, nyt, huomenna, aina, ei koskaan, ajoissa, kohta, kauan, nopeasti, samaan aikaan. Aikaan liittyvät käsitteet täyttävät suuren osan elämästämme. Mitä, jos käsitys absoluuttisesta ikuisesti tasaisesti taustalla kulkevasta ajasta onkin illuusio? Mitä, jos aika onkin todellista, mutta suhteellista, se voi venyä ja väreillä? Vastaus näihin kysymyksiin saattaa vaikuttaa siihen, että voimmeko koskaan hallita aikaa. Käsittelemme tässä jaksossa kirjailija ja luennoitsija Alexander Jalon kanssa aikaan, avaruuteen ja multiversumiin liittyviä kysymyksiä._
 

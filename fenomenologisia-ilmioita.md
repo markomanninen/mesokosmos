@@ -1,6 +1,6 @@
 # Fenomenologisia ilmiöitä
 
-> Aluksi meidän on tehtävä tämä olettamus: puhdas fenomenologia on puhtaan tietoisuuden tiedettä. - Edmund Husserl
+> Aluksi meidän on tehtävä tämä olettamus: puhdas fenomenologia on puhtaan tietoisuuden tiedettä. –Edmund Husserl
 
 _Vuosi on vaihtunut Mesokosmoksessakin ja uuden vuoden 2020 ensimmäisessä haastattelussa pääsemme muusikko, filosofian opiskelija ja perheen isä Tuukka Franckin kanssa mustan metallin makuun. Tuukka on ollut rumpalina Black Metal -yhtyeissä, vihkiytynyt niiden taustalla olevaan ideologiaan sekä filosofian opinnoissa perehtynyt erityisesti Edmund Husserlin fenomenologiaan. Pienen musiikillisen ekskursion ja alkujuonnon jälkeen pyrimme tässä jaksossa valottamaan muutamia peruskäsitteitä ja historiallisia skeptisiä lähtökohtia, joiden pohjalta fenomenologia kehittyi. Jakson myötä haluamme myös toivottaa kuulijoille hyvää alkanutta vuotta._
 

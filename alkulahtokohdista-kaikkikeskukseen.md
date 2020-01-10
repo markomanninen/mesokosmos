@@ -1,6 +1,6 @@
 # Alkulähtökohdista Kaikkikeskukseen
 
-> Joka etsii korkeampaa tietoa, hänen täytyy luoda sellainen itselleen. Hänen täytyy istuttaa se sieluunsa. — Rudolf Steiner
+> Joka etsii korkeampaa tietoa, hänen täytyy luoda sellainen itselleen. Hänen täytyy istuttaa se sieluunsa. – Rudolf Steiner
 
 _Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedon välittämisessä on kyse._
 

@@ -1,6 +1,6 @@
 # Filosofia - Hölynpölyä vai puhdasta immanenttia
 
-> Mikään ei ole ihmiselle vaikeampi hallittava kuin kieli, ja halunsa hän hillitsee paremmin kuin sanansa. — Baruch Spinoza
+> Mikään ei ole ihmiselle vaikeampi hallittava kuin kieli, ja halunsa hän hillitsee paremmin kuin sanansa. – Baruch Spinoza
 
 _Miksi aloitan Näkökulmia mesokosmoksesta podcast-sarjan pohtimalla mitä tieto, käsitteet ja ajatukset tarkoittavat?_
 

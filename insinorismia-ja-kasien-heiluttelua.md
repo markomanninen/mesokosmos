@@ -1,6 +1,6 @@
 # Insinörismiä ja käsien heiluttelua
 
-> Tuskin voisin tuntea mitään muuta, jos en tuntisi edes itseäni. - Ksenofon, Muistelmia 4:2:24 \(370 ekr.\)
+> Tuskin voisin tuntea mitään muuta, jos en tuntisi edes itseäni. – Ksenofon, Muistelmia 4:2:24 \(370 ekr.\)
 
 _Hiukan laajentaen ajatustenvaihtoa, päätin tällä kertaa hypätä rajojen yli, kuunnella ja kommentoida tässä episodissa erään toisen uskonto-, filosofia- ja tutkimusorientoituneen suomalaisen podcastin eli Maailmanpuun 17.5.2019 julkaistua jaksoa nimeltä “Mitä on totuus? – Esko Valtaoja.” Kyseinen jakso on hyvä kuunnella etukäteen tämän episodin kontekstin ymmärtämisen vuoksi._
 

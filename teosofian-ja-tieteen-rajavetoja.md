@@ -1,6 +1,6 @@
 # Teosofian ja tieteen rajavetoja
 
-> Ihmisen osuus on ristiriidasta nousten, taistellen tuoda taivainen siemen maiseen multaan, keskellä mudan ja liejun suojella Uuden Elämän uskon, Elämän toivon hentoa kukkaa. - Sven Krohn
+> Ihmisen osuus on ristiriidasta nousten, taistellen tuoda taivainen siemen maiseen multaan keskellä mudan ja liejun suojella Uuden Elämän uskon, Elämän toivon hentoa kukkaa. – Sven Krohn
 
 _Mesokosmoksen kokoomapiste liikahtaa mualiman varsinaiseen napaan ja tapaa arvostetun fysiikan opettajan ja pitkän linjan teosofin, Antti Savinaisen Kuopiossa. Setvimme niitä rajapintoja, joissa tiede ja aikainviisaus modernina aikakautena on mahdollisesti kohdannut ja toisaalta jäänyt kohtaamatta. Onko tieteellä ja teosofialla mitään annettavaa toisilleen?_
 

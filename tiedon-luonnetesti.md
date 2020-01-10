@@ -1,10 +1,8 @@
 # Tiedon luonnetesti
 
-> Kuka todella tietää, ja kuka voi selittää, milloin se syntyi, milloin tämä luominen tapahtui? Jumalat tulivat maailman luomisen jälkeen. Kuka voi siten tietää, milloin maailma ensimmäisen kerran tuli olevaksi? - RigVeda
+> Kuka todella tietää, ja kuka voi selittää, milloin se syntyi, milloin tämä luominen tapahtui? Jumalat tulivat maailman luomisen jälkeen. Kuka voi siten tietää, milloin maailma ensimmäisen kerran tuli olevaksi. – RigVeda
 
 _Käsittelen tässä viiteen osaan jaetussa esseessä tietoa tavalla, joka on erottamaton subjektista eli minusta kokemusteni ja havaintojeni muistelijana ja tulkitsijana. Pyrkimyksenäni on esitellä henkilökohtainen tieto-oppini niin, että se toimii muiden kirjoittamieni tutkielmaesseiden tietoon liittyvien käsitysten riittävän laajana ja konkreettisena tarkastelupohjana._
-
-
 
 ---
 
@@ -47,7 +45,7 @@ _Käsittelen tässä viiteen osaan jaetussa esseessä tietoa tavalla, joka on er
 
 * [Lewis Carroll: Liisan seikkailut ihme- ja peilitakamaassa](https://fi.wikipedia.org/wiki/Lewis_Carroll)
 * [Kurt Gödelin epätäydellisyysteoreema](https://plato.stanford.edu/entries/goedel-incompleteness/#SecIncThe)
-* [Agrippan Trilemma ja viisi trooppia](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
+* [Agrippan Trilemma ja viisi trooppia](https://en.wikipedia.org/wiki/Münchhausen_trilemma)
 * [Aristoteleen kategoriat](https://fi.wikipedia.org/wiki/Kategoria_%28filosofia%29#Aristoteleen_kategoriat)
 * [Ontologista epistemologiaa](https://www.researchgate.net/publication/328253228_Ontic_explanation_is_either_ontic_or_explanatory_but_not_both)
 * [Laplacen demoni](https://fi.wikipedia.org/wiki/Laplacen_demoni)
@@ -63,8 +61,6 @@ _Käsittelen tässä viiteen osaan jaetussa esseessä tietoa tavalla, joka on er
 * [Mauri Lehtovirta: Jeesuksen Jooga -kirja](http://www.ruusuristi.fi/julkaisut/artikkelit/jeesuksen-jooga-1.)
 * [Ken Wilber: How to think Integrally? -video](https://www.youtube.com/watch?v=ZDjdJBpbQrI)
 * [Idän tietoteoria eli pramāna-oppi](https://plato.stanford.edu/entries/epistemology-india/)
-
-
 
 [https://mesokosminen.wordpress.com/2019/02/18/tiedon-luonnetesti-osa-1/](https://mesokosminen.wordpress.com/2019/02/18/tiedon-luonnetesti-osa-1/)
 

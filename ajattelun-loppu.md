@@ -1,6 +1,6 @@
 # Ajattelun loppu
 
-> Yoga Chitta Vritti Nirodha. Jooga on mielenliikkeiden lakkaamista. — Patanjali
+> Yoga Chitta Vritti Nirodha. Jooga on mielenliikkeiden lakkaamista. – Patanjali
 
 _Erilaisia loppuja on esitetty iät ja ajat maailmanlopusta, erillisyyden, ajan ja jopa filosofian loppuihin. Tulisiko siitä millainen kriisi tai katastrofi, jos lopettaisimme ajattelemasta? Esitän tässä dialogina kirjoitetussa esseessä, että ajatuksettomasta tilasta nouseva ensikriisi voi hyvinkin olla uuden taidon ja siinä mielessä kokonaan uuden tiedon alku._
 

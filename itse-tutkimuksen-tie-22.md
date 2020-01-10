@@ -1,6 +1,6 @@
 # Itse-tutkimuksen tie 2/2
 
-> Aika on vain idea. Vain todellisuus on olemassa. Aika on epäolennaista tiedon polulla. - Sri Ramana Maharshi
+> Aika on vain idea. Vain todellisuus on olemassa. Aika on epäolennaista tiedon polulla. – Sri Ramana Maharshi
 
 _Tässä jatko-osassa Jussi Penttinen kertoo, mitä Ramana Maharshin opettama itse-tutkimus on ja millainen tämä edesmenneen tunnetun intialaisen opettajan, tuttavallisemmalta nimeltään Bhagavanin, itsetuntemuksen menetelmä on._
 

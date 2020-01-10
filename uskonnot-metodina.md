@@ -1,6 +1,6 @@
 # Uskonnot metodina
 
-> Persoonaa on mahdotonta tuntea ulkoapäin, ellei hän itse ilmoita itseään. Koska Jumala on salattu Jumala, ihmiselläkin on salattuja syvyyksiä. - Arkkimandriitta Sofroni Saharov
+> Persoonaa on mahdotonta tuntea ulkoapäin, ellei hän itse ilmoita itseään. Koska Jumala on salattu Jumala, ihmiselläkin on salattuja syvyyksiä. – Arkkimandriitta Sofroni Saharov
 
 _Voiko uskontoja ajatella metodina samalla tavoin kuin puhutaan tieteellisestä menetelmästä? Ei siis pelkästään niin, että uskontoja itsessään tutkitaan tieteellisin menetelmin vaan niin, että uskonto olisi tai se sisältäisi menetelmiä esimerkiksi itsekasvatukseen, maailman ymmärtämiseen, näkyvien ja näkymättömien lainalaisuuksien löytämiseen ja tutkimiseen. Tieteen ja uskonnon vertailu johtaa helposti ikiaikaiseen väittelyyn toinen toisensa ylivertaisuudesta enkä halua niinkään ottaa kantaa siihen debattiin. En myöskään halua ottaa kantaa minkään tietyn uskonnon metodin paremmuudesta. Yritän enemmänkin tehdä huomioita, jotka tuntuvat toisaalta yhdistävän, toisaalta erottavan uskontoja, tiedettä ja elämänfilosofioita._
 

@@ -1,6 +1,6 @@
 # Idän ja lännen filosofiaa
 
-> Ihminen, tunne itsesi! Se on kaiken elämänviisauden alku. - Sokrates
+> Ihminen, tunne itsesi! Se on kaiken elämänviisauden alku. – Sokrates
 
 _Haastattelen tässä episodissa kirjailija, joogaohjaaja ja elokuvaohjaaja Taavi Kassilaa. Vertailemme Taavin kanssa idän ja lännen filosofista perinnettä matkaten samalla luovuuden, oppimisen, viisauden ja mestariuden lähteille._
 

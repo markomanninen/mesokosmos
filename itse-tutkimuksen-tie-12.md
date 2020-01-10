@@ -1,6 +1,6 @@
 # Itse-tutkimuksen tie 1/2
 
-> Meidän oma itse-oivallus on suurin palvelus, jonka voimme maailmalle antaa. - Sri Ramana Maharshi
+> Meidän oma itse-oivallus on suurin palvelus, jonka voimme maailmalle antaa. – Sri Ramana Maharshi
 
 _Sri Ramana Maharshin seuraaja, Bhagavan devotee Jussi Penttinen kertoo, mitä Maharshin opettama itse-tutkimus on ja millainen tämä edesmenneen tunnetun intialaisen opettajan itsetuntemuksen menetelmä on._
 

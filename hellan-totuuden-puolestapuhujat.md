@@ -1,6 +1,6 @@
 # Hellän totuuden puolestapuhujat
 
-> Herran palvelijan ei sovi riidellä, vaan hänen tulee olla lempeä kaikkia kohtaan, kyetä opettamaan ja pahaa kärsimään; hänen tulee sävyisästi ojentaa vastustelijoita; ehkäpä Jumala antaa heille mielenmuutoksen, niin että tulevat tuntemaan totuuden. - 2 Timoteus 2:24-25
+> Herran palvelijan ei sovi riidellä, vaan hänen tulee olla lempeä kaikkia kohtaan, kyetä opettamaan ja pahaa kärsimään; hänen tulee sävyisästi ojentaa vastustelijoita; ehkäpä Jumala antaa heille mielenmuutoksen, niin että tulevat tuntemaan totuuden. – 2 Timoteus 2:24-25
 
 _Olemme käyneet ystäväni Paulan kanssa keväällä keskustelua kuluvan kauden podcast jaksoista. Ajattelin, että on aika hiukan reflektoida sisältöä ja udella mitä hänelle tärkeitä teemoja jaksoissa on noussut esille. Millainen on ollut Paulan Tie, onko totuus kylmä ja absoluuttinen, mitkä ovat meidän ajan polttavia kysymyksiä, keitä ovat tulevaisuuden opettajat ja nerot?_
 

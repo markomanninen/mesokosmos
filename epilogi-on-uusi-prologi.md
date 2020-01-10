@@ -1,6 +1,6 @@
 # Epilogi on uusi prologi
 
-> Ne, jotka eivät ymmärrä kuinka laittaa ajatuksensa jäihin, ei kannattaisi ottaa osaa kuumaan debattiin. - Friedrich Nietzsche
+> Ne, jotka eivät ymmärrä kuinka laittaa ajatuksensa jäihin, ei kannattaisi ottaa osaa kuumaan debattiin. – Friedrich Nietzsche
 
 _On tullut aika Mesokosmoksen ensimmäisen kauden viimeisen eli kahdennenkymmenennenkuudennen jakson._
 

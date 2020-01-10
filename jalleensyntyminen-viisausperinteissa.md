@@ -1,6 +1,6 @@
 # Jälleensyntyminen viisausperinteissä
 
-> Jos joku kannattaa väitettä sielun tarunomaisesta pre-eksistenssistä ja siitä seuraavaa väitettä kauheasta takaisintulosta \(kreik. apokastasis eli entisöityminen\), hän olkoon kirottu. - Konstantinopoli, 553 jaa.
+> Jos joku kannattaa väitettä sielun tarunomaisesta pre-eksistenssistä ja siitä seuraavaa väitettä kauheasta takaisintulosta \(kreik. apokastasis eli entisöityminen\), hän olkoon kirottu. – Konstantinopoli, 553 jaa.
 
 _Mesokosmoksessa on nyt haastateltavana toistamiseen fysiikan opettaja ja ruusuristiläinen teosofi Antti Savinainen. Antti on pitemmän aikaa tutkinut jälleensyntymiseen liittyviä kysymyksiä, erityisesti idän uskontojen ja teosofian näkökulmista. Usko jälleensyntymiseen vaikuttaa kasvaneen viime vuosikymmeninä myös Suomessa. Kaikkien tutkittavissa olevaa aineistoa löytyy lasten jälleensyntymismuistojen dokumentoijilta, kuten Ian Stevensonilta. Mitä jälleensyntymisoppi sisältää, mistä se on peräisin, millaisia vaikutuksia sillä on yhteiskunnassa, mikä on sen tarkoitus ja miten jälleensyntymisiä tutkitaan nykyään? Muun muassa näistä kysymyksistä puhutaan Mesokosmoksen ensimmäisen kauden loppupuolen episodissa 24._
 

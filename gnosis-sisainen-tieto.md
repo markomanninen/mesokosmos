@@ -1,6 +1,6 @@
 # Gnosis – sisäinen tieto
 
-> Meitä ei tee vapaaksi pelkkä kaste, vaan tieto siitä, keitä me olemme ja mitä meistä on tullut, missä olemme olleet tai mihin olemme joutuneet, minne olemme matkalla ja mistä meidät on vapautettu, mitä on syntymä ja mitä jälleensyntyminen. - Theodotos
+> Meitä ei tee vapaaksi pelkkä kaste, vaan tieto siitä, keitä me olemme ja mitä meistä on tullut, missä olemme olleet tai mihin olemme joutuneet, minne olemme matkalla ja mistä meidät on vapautettu, mitä on syntymä ja mitä jälleensyntyminen. – Theodotos
 
 _FM, tietokirjailija Pentti Tuominen kertoo gnostilaisuuden varhaisesta historiasta, sen sanomasta ja nykyisestä toiminnasta Suomessa. Henkinen kokemus 90-luvulla saattoi Pentin tutkimaan gnostilaisuutta ja tämän tutkimusmatkan seurauksena hänestä tuli gnostilainen, mystikko, kirjailija ja lopulta luennoitsija. Sittemmin hän oli myös perustamassa ensimmäistä suomalaista Gnostilaista Seuraa. Seura on viimeisen kymmenen vuoden aikana kutsunut nuoria ja vanhoja, miehiä ja naisia tutustumaan esoteeriseen mysteeriuskontoon korkealuokkaisen luentotoiminnan, kirkollisten messujen, tutkimuspiirin ja sisäisen, muinaiseen riittiin perustuvan koulun kautta._
 
