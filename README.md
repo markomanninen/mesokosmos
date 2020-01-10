@@ -1,6 +1,6 @@
-# Näkökulmia mesokosmoksesta
+# Näkökulmia Mesokosmoksesta
 
-Tutkielmaesseitä julkaiseva sarja
+Tutkielmaesseitä ja haastatteluita julkaiseva sarja
 
 #### 1. [Alkulähtökohdista Kaikkikeskukseen](/alkulahtokohdista-kaikkikeskukseen.md)
 
@@ -8,7 +8,7 @@ Pohdin tässä esseessä, mistä ymmärtämisessä ja tiedon välittämisessä o
 
 #### 2. [Filosofia – Hölynpölyä vai puhdasta immanenttia?](/filosofia-holynpolya-vai-puhdasta-immanenttia.md)
 
-Miksi aloitan Näkökulmia mesokosmoksesta podcast-sarjan pohtimalla mitä tieto, käsitteet ja ajatukset tarkoittavat?
+Miksi aloitan Näkökulmia Mesokosmoksesta podcast-sarjan pohtimalla mitä tieto, käsitteet ja ajatukset tarkoittavat?
 
 #### 3. [Ajattelun loppu](/ajattelun-loppu.md)
 

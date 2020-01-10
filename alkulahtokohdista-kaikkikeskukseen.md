@@ -101,3 +101,6 @@ Pohdinnan pohjana, liikkeelle laittavina lähteinä:
 * Ronald H. Brady: How We Make Sense of the World - A Study in Rudolf Steiner's Epistemological Work \(2003\)
 * Riku Juti: Tiedon filosofia – Antiikista nykyaikaan \(2013\)
 * Eliseo Fernández: Peirce and Biosemiotics – A Guess at the Riddle of Life \(2014\)
+
+[https://mesokosminen.wordpress.com/2018/12/11/alkulahtokohdista-kaikkikeskukseen/](https://mesokosminen.wordpress.com/2018/12/11/alkulahtokohdista-kaikkikeskukseen/)
+
