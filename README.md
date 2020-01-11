@@ -18,7 +18,7 @@ Erilaisia loppuja on esitetty iät ja ajat maailmanlopusta, erillisyyden, ajan j
 
 Pohdimme tässä jaksossa ruusuristiläisen Jukan kanssa mitä filosofi, elämänfilosofia ja arkikielinen filosofointi voisi tarkoittaa nykyaikana.
 
-#### 5.  [Tiedon luonnetesti 1/5](#5--tiedon-luonnetesti-15)
+#### 5.  [Tiedon luonnetesti 1-5](#5--tiedon-luonnetesti-15)
 
 Käsittelen tässä viiteen osaan jaetussa esseessä tietoa tavalla, joka on erottamaton subjektista eli minusta kokemusteni ja havaintojeni muistelijana ja tulkitsijana. Pyrkimyksenäni on esitellä henkilökohtainen tieto-oppini niin, että se toimii muiden kirjoittamieni tutkielmaesseiden tietoon liittyvien käsitysten riittävän laajana ja konkreettisena tarkastelupohjana.
 
