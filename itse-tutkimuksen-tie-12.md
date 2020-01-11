@@ -6,7 +6,7 @@ _Sri Ramana Maharshin seuraaja, Bhagavan devotee Jussi Penttinen kertoo, mitä M
 
 ---
 
-### Linkkejä
+## Linkkejä
 
 * [http://www.itsetutkimus.fi](http://www.itsetutkimus.fi/)
 * [Sri Ramana Maharshi](https://fi.wikipedia.org/wiki/Ramana_Maharshi)
@@ -15,6 +15,8 @@ _Sri Ramana Maharshin seuraaja, Bhagavan devotee Jussi Penttinen kertoo, mitä M
 * [Talks with David Godman part 1 – 7](https://www.youtube.com/playlist?list=PL8hGc9OaVmFUFLU0ssTe0g6UvxoOphFi9)
 * [Jnani the Silent Sage of Arunachala film](https://www.youtube.com/watch?v=hVYv9ktilQw)
 * [Gnostilainen seura](https://www.gnosis.fi/)
+
+## Podcast-jakso
 
 [https://mesokosminen.wordpress.com/2019/04/29/itse-tutkimuksen-tie/](https://mesokosminen.wordpress.com/2019/04/29/itse-tutkimuksen-tie/)
 

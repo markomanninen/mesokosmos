@@ -6,7 +6,7 @@ _Haastattelen tässä episodissa kirjailija, joogaohjaaja ja elokuvaohjaaja Taav
 
 ---
 
-### Linkkejä
+## Linkkejä
 
 Taavi Kassilan:
 
@@ -17,6 +17,8 @@ Taavi Kassilan:
 * [Forum Humanum](http://forumhumanum.fi/)
 * [Sata suurinta suomalaista: Yrjö Kallinen](http://vintti.yle.fi/yle.fi/suuretsuomalaiset/ehdokkaat/index0be2.html?list=all&id=30)
 * [Sokrateen terävä kieli vei hänet hautaan](https://historianet.fi/sivilisaatiot/kreikkalaiset/sokrateen-terava-kieli-vei-hanet-hautaan)
+
+## Podcast-jakso
 
 [https://mesokosminen.wordpress.com/2019/05/13/idan-ja-lannen-filosofiaa/](https://mesokosminen.wordpress.com/2019/05/13/idan-ja-lannen-filosofiaa/)
 

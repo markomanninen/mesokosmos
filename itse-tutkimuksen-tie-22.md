@@ -6,7 +6,7 @@ _Tässä jatko-osassa Jussi Penttinen kertoo, mitä Ramana Maharshin opettama it
 
 ---
 
-### Linkkejä
+## Linkkejä
 
 * [Pentti Mäntylän suomentamat Bhagavania käsittelevät tekstit](http://www.saunalahti.fi/~pentmant/)
 * [Papaji and the Buddha: A Talk by David Godman](https://www.youtube.com/watch?v=Ws2Tq575k7M)
@@ -14,6 +14,8 @@ _Tässä jatko-osassa Jussi Penttinen kertoo, mitä Ramana Maharshin opettama it
 * [Scientific article about lucid dreams](https://www.researchgate.net/publication/318946859_Lucid_dreaming_A_Wake-Initiated-Lucid-Dream_WILD_approach)
 * [http://www.itsetutkimus.fi](http://www.itsetutkimus.fi)
 * [Forum Humanum](http://forumhumanum.fi/)
+
+## Podcast-jakso
 
 [https://mesokosminen.wordpress.com/2019/05/26/itse-tutkimuksen-tie-osa-2/](https://mesokosminen.wordpress.com/2019/05/26/itse-tutkimuksen-tie-osa-2/)
 

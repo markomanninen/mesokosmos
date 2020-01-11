@@ -16,5 +16,7 @@ _Olemme käyneet ystäväni Paulan kanssa keväällä keskustelua kuluvan kauden
 * [Ruusu-Risti ry](http://www.ruusuristi.fi/)
 * [Yhteistyöryhmä](http://www.ihmisyyteen.fi/teosofisten-liikkeiden-yhteistyoryhma/)
 
+## Podcast-jakso
+
 [https://mesokosminen.wordpress.com/2019/07/08/hellan-totuuden-puolestapuhujat/](https://mesokosminen.wordpress.com/2019/07/08/hellan-totuuden-puolestapuhujat/)
 

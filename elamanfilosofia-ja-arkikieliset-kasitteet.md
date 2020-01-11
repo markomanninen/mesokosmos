@@ -6,7 +6,7 @@ _Pohdimme t채ss채 jaksossa ruusuristil채isen Jukan kanssa mit채 filosofi, el채m�
 
 ---
 
-### Linkkej채
+## Linkkej채
 
 * [_Sofistit_](https://fi.m.wikipedia.org/wiki/Sofismi)
 * [_El채m채nfilosofia_](https://fi.m.wikipedia.org/wiki/El채m채nfilosofia)
@@ -16,6 +16,8 @@ _Pohdimme t채ss채 jaksossa ruusuristil채isen Jukan kanssa mit채 filosofi, el채m�
 * [_Kysymisen ja ihmettelyn taito_](https://books.google.fi/books?id=7TLViyim_igC&printsec=frontcover&hl=fi#v=onepage&q&f=false)
 * [_Teosofinen seura ry_](http://www.teosofinenseura.fi/?lang=fi)
 * [_Ruusu-Risti ry_](http://ruusuristi.fi)
+
+## Podcast-jakso
 
 [https://mesokosminen.wordpress.com/2019/02/04/elamanfilosofia-ja-arkikieliset-kasitteet/](https://mesokosminen.wordpress.com/2019/02/04/elamanfilosofia-ja-arkikieliset-kasitteet/)
 

@@ -20,8 +20,6 @@ Samoksesta ei lopulta löytynyt juuri muuta kuin suureen suoraan kulmaan asetett
 
 Matkani tarkoitus sai uuden suunnan tällä ulkoisesti karulla, kesäkuussa varsin helteiseksi äityvällä, mutta henkisesti hedelmällisellä saarella. Uusi vire tarttui sillä hetkellä, jolloin kuvasin Nikon D70 kameralla erään kappelin oven yläpuolelle kaiverrettua kuusisakaraisen kukan kuvaa. Jostain syystä otin tästä kohteesta hyvin monta otosta eri etäisyyksiltä. Vasta kuukautta myöhemmin kuvia puolisolleni näyttäessäni ymmärsin, mitä niihin oli itseasiassa “piilotettu.” Kohteen tarkempi zoomaus toi esiin kuusisakaraisen kukan geometriseen rakentamiseen liittyvät apukuviot, joista lopulta rakentuu nykyään Elämän Kukka-nimellä tunnettu geometrinen kuva.
 
-
-
 ![](https://mesokosminen.files.wordpress.com/2019/12/johanneksen-ilmestys.016-e1577039181735.png?w=740 "Kuusisakarainen kukka ja apukuviot alaoikealla © Marko Manninen, Patmos \(2014\)")
 
 _Kuusisakarainen kukka ja apukuviot alaoikealla © Marko Manninen, Patmos \(2014\)_
@@ -127,8 +125,6 @@ Monien sakraaligeometrian tutkijoiden mielestä perusaihioista tärkein on vesic
 
 Vesica piscis muodostaa matemaattisesti neliöjuuri kolme suhteen edellä mainittujen ympyröiden säteen eli leveyden ja ovaalin muodon korkeuden välille. Eukleideen geometrinen oppikirja Elementit 300-luvulta eaa. mainitsee tämän muodon ensimmäisenä yli 400:sta geometrisesta propositiosta. Täten vesica pisciksen rakentamiseen liittyvät välineet \(harppi ja viivain\) ja eri elementit, kuten ympyrät, keskipiste, leikkauspisteet, niiden kautta piirrettyjen viivojen pituuksien suhteet, erityisesti neliöjuuri kolme ja sen rationaaliset likiarvot kuten 265÷153 ja desimaalilikiarvo 1.732 \(~1728\) saavat erityisen painoarvon pyhässä geometriassa.
 
-
-
 ![](https://mesokosminen.files.wordpress.com/2019/12/vesica-piscis-265-1536181261115860971962.png?w=740 "Vesica Piscis - Korkeuden ja leveyden suhde eli neliöjuuri kolme mm. Arkhimedeen käyttämän likiarvon 265/153 avulla esitettynä")
 
 _Vesica Piscis – Korkeuden ja leveyden suhde eli neliöjuuri kolme mm. Arkhimedeen käyttämän likiarvon 265/153 avulla esitettynä_
@@ -169,6 +165,8 @@ Sakraaligeometrian tutkiskelulla voi näiden ongelmien parissa olla hyvinkin pal
 * Edmund Husserl / Jacques Derrida: Geometrian alkuperä \(2007\)
 * Joel Kalvesmaki: The Theology of Arithmetic – Number Symbolism in Platonism and Early Christianity \(2013\)
 * Iamblichus: The Theology of Arithmetic – On the Mystical, Mathematical and Cosmological Symbolism of the First Ten Numbers \(400 jaa.\)
+
+## Podcast-jakso
 
 [https://mesokosminen.wordpress.com/2019/12/24/sakraaligeometria-matka-jalosukuisten-leikkausten-lahteille/](https://mesokosminen.wordpress.com/2019/12/24/sakraaligeometria-matka-jalosukuisten-leikkausten-lahteille/)
 

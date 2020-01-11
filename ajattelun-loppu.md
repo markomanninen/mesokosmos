@@ -176,7 +176,7 @@ Filosofia viisauden rakkauden antiikissa merkityksessä pyrkii löytämään sel
 
 ---
 
-### Lähteitä
+## Lähteitä
 
 * Johann Gottlieb Fichte: Tiedeopin perusta \(1794 – 1797\)
 * Rudolf Steiner: Truth and Knowledge \(1892\)
@@ -184,6 +184,8 @@ Filosofia viisauden rakkauden antiikissa merkityksessä pyrkii löytämään sel
 * Martin Heidegger: The End of Philosophy and the Task of Thinking \(1964\)
 * Timo Klemola: Karate Do \(1985\)
 * Taavi Kassila: Patanjalin jooga-ajatelmat \(2015\)
+
+## Podcast-jakso
 
 [https://mesokosminen.wordpress.com/2019/01/21/ajattelun-loppu/](https://mesokosminen.wordpress.com/2019/01/21/ajattelun-loppu/)
 

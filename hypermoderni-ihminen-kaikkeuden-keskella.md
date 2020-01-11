@@ -129,5 +129,7 @@ Kulttuurien kehitys on jatkunut ja jatkuu edelleen. Meidän aika haastaa henkise
 * Postmodernism: [https://plato.stanford.edu/entries/postmodernism/](https://plato.stanford.edu/entries/postmodernism/)
 * [Yhteistyöryhmä](https://www.facebook.com/events/kreivilä/henkisyys-ja-tiede-yhteistyöryhmä-19-seminaari-kreivilässä/831183440578357/) \(YTR 08/2019\)
 
+## Podcast-jakso
+
 [https://mesokosmos.com/2019/09/30/hypermoderni-ihminen-kaikkeuden-keskella-episodi-21/](https://mesokosmos.com/2019/09/30/hypermoderni-ihminen-kaikkeuden-keskella-episodi-21/)
 

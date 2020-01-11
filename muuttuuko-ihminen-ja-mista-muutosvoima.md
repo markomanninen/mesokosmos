@@ -92,7 +92,7 @@ Hän on aktiivisesti jatkanut myös toimintaansa humanistisen alan tutkijana. Vi
 
 ---
 
-### Lähteitä
+## Lähteitä
 
 * Erik Ahlman, _Ihmisen probleemi_. 2. painos. Jyväskylä: Gummerus 1982 \(1953\).
 * Jukka Ammondt, _Vapautumisen estetiikka. Eino Krohn taiteen ja kirjallisuuden tutkijana_. Jyväskylä Studies in the Arts 38. Jyväskylä: Jyväskylän yliopisto 1991.
@@ -104,6 +104,8 @@ Hän on aktiivisesti jatkanut myös toimintaansa humanistisen alan tutkijana. Vi
 * J.E. Salomaa, _Totuus ja arvo_. Helsinki: WSOY.
 * Friedrich Schiller, _Briefe über die ästhetische Erziehung des Menschen_. Friedrich Schiller, Sämtliche Schriften, Historisch–kritische Ausgabe Bd 10. Stuttgart 1871 \(1795\).
 * Lauri Viita, _Suutarikin suuri viisas. Runoa ja proosaa_. Helsinki: WSOY 1961.
+
+## Podcast-jakso
 
 [https://mesokosminen.wordpress.com/2019/06/10/muuttuuko-ihminen-ja-mista-muutosvoima/](https://mesokosminen.wordpress.com/2019/06/10/muuttuuko-ihminen-ja-mista-muutosvoima/)
 

@@ -14,5 +14,7 @@ _Tässä jaksossa Mesokosmos toivottaa tietoisuustutkija ja kirjailija Jeremy Qv
 * Scott Elliot Hicks: [scottelliothicks.blogspot.com](http://scottelliothicks.blogspot.com/)
 * Yeshayahu Ben-Aharon: [ibecoming.co.il](http://ibecoming.co.il/)
 
+## Podcast-jakso
+
 [https://mesokosminen.wordpress.com/2019/10/14/uusi-ajatus-on-mahdollista/](https://mesokosminen.wordpress.com/2019/10/14/uusi-ajatus-on-mahdollista/)
 

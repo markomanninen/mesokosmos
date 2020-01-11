@@ -17,5 +17,7 @@ _FM, tietokirjailija Pentti Tuominen kertoo gnostilaisuuden varhaisesta historia
 * [Antti Marjanen](https://researchportal.helsinki.fi/en/persons/antti-marjanen)
 * [Ismo Dunderberg](https://researchportal.helsinki.fi/en/persons/ismo-dunderberg)
 
+## Podcast-jakso
+
 [https://mesokosminen.wordpress.com/2019/09/02/gnosis-sisainen-tieto/](https://mesokosminen.wordpress.com/2019/09/02/gnosis-sisainen-tieto/)
 

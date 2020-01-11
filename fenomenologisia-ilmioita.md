@@ -15,5 +15,7 @@ _Vuosi on vaihtunut Mesokosmoksessakin ja uuden vuoden 2020 ensimmäisessä haas
 * [Saksalainen idealismi](https://fi.wikipedia.org/wiki/Saksalainen_idealismi)
 * [Black metal](https://fi.wikipedia.org/wiki/Black_metal)
 
+## Podcast-jakso
+
 [https://mesokosminen.wordpress.com/2020/01/07/fenomenologisia-ilmioita/](https://mesokosminen.wordpress.com/2020/01/07/fenomenologisia-ilmioita/)
 

@@ -21,5 +21,7 @@ _Mesokosmoksessa on nyt haastateltavana toistamiseen fysiikan opettaja ja ruusur
 * [Teosofia.net](http://teosofia.net/)
 * [Ruusu-Risti ry](http://ruusuristi.fi/)
 
+## Podcast-jakso
+
 [https://mesokosmos.com/2019/11/11/jalleensyntyminen-viisausperinteissa/](https://mesokosmos.com/2019/11/11/jalleensyntyminen-viisausperinteissa/)
 

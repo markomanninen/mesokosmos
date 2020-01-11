@@ -256,5 +256,7 @@ Nämä näkökulmat mielessä pitäen gnosis on siis tie tietoon, joka on tietoa
 * [Self-Reference / Itseensä viittaavuus](https://plato.stanford.edu/entries/self-reference/)
 * [Kurt Gödel, incompleteness and self-reference](https://epochemagazine.org/the-incomplete-self-gödel-and-the-brain-7f5ddb29fe3a)
 
+## Podcast-jakso
+
 [https://mesokosminen.wordpress.com/2019/08/19/gnosis-ja-nykytieto/](https://mesokosminen.wordpress.com/2019/08/19/gnosis-ja-nykytieto/)
 

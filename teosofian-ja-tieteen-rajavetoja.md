@@ -16,5 +16,7 @@ _Mesokosmoksen kokoomapiste liikahtaa mualiman varsinaiseen napaan ja tapaa arvo
 * [Helena Petrovna Blavatsky](https://fi.wikipedia.org/wiki/H._P._Blavatsky)
 * [Minna Canthin museo – Kanttila.fi](http://kanttila.fi/)
 
+## Podcast-jakso
+
 [https://mesokosminen.wordpress.com/2019/07/22/teosofian-ja-tieteen-rajavetoja/](https://mesokosminen.wordpress.com/2019/07/22/teosofian-ja-tieteen-rajavetoja/)
 

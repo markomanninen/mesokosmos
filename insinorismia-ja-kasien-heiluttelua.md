@@ -115,5 +115,7 @@ Toivottavasti on tiedemiehiä, joiden tiedon tarpeen voi oikeuttaa pienemmällä
 * [4200 maailman uskontoa](http://www.adherents.com/)
 * [Squaring the circle](https://en.wikipedia.org/wiki/Squaring_the_circle)
 
+## Podcast-jakso
+
 [https://mesokosminen.wordpress.com/2019/06/24/insinorismia-ja-kasien-heiluttelua/](https://mesokosminen.wordpress.com/2019/06/24/insinorismia-ja-kasien-heiluttelua/)
 

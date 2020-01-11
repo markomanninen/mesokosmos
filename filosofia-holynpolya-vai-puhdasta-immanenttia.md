@@ -116,7 +116,7 @@ Onko spinozalainen immanentti ontologia puhdasta timanttia, vai onko se särkyv�
 
 ---
 
-### Lähteitä
+## Lähteitä
 
 Lähteitä ja tukiverkkoja ajatuksille:
 
@@ -127,6 +127,8 @@ Lähteitä ja tukiverkkoja ajatuksille:
 * Paul Patton: Gilles Deleuze: Difference and Repetition \(1994\)
 * Martin Joughin: Gilles Deleuze: Negotiations \(1997\)
 * Emma L. Jeanes and Christian De Cock: Making the familiar strange – A deleuzian perspective on creativity \(2005\)
+
+## Podcast-jakso
 
 [https://mesokosminen.wordpress.com/2019/01/07/filosofia-holynpolya-vai-puhdasta-immanenttia-episodi-2/](https://mesokosminen.wordpress.com/2019/01/07/filosofia-holynpolya-vai-puhdasta-immanenttia-episodi-2/)
 

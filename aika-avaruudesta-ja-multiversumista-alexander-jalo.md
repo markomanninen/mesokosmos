@@ -16,5 +16,7 @@ _Eilen, nyt, huomenna, aina, ei koskaan, ajoissa, kohta, kauan, nopeasti, samaan
 * Video: [Universe is not a box](https://www.edge.org/conversation/julian_barbour-the-universe-is-not-in-a-box)
 * Podcast: [Sean Carrolin englanninkielinen Mindscape-podcast ja Monet Maailmat -jakso](https://www.preposterousuniverse.com/podcast/2019/07/15/55-a-conversation-with-rob-reid-on-quantum-mechanics-and-many-worlds/)
 
+## Podcast-jakso
+
 [https://mesokosminen.wordpress.com/2019/09/16/aika-avaruudesta-ja-multiversumista-alexander-jalo/](https://mesokosminen.wordpress.com/2019/09/16/aika-avaruudesta-ja-multiversumista-alexander-jalo/)
 
